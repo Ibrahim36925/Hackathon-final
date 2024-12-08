@@ -1,4 +1,3 @@
-import Image from "next/image";
 import fb from "@/images/facebook.png";
 import { IoLogoInstagram } from "react-icons/io"
 import { FiYoutube } from "react-icons/fi"
