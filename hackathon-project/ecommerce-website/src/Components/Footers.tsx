@@ -1,8 +1,10 @@
-import fb from "@/images/facebook.png";
+// import Image from "next/image";
+// import fb from "@/images/facebook.png";
 import { IoLogoInstagram } from "react-icons/io"
-import { FiYoutube } from "react-icons/fi"
+// import { FiYoutube } from "react-icons/fi"
 import { FaFacebook } from "react-icons/fa"
 import { FaTwitter } from "react-icons/fa"
+import React from "react";
 export default function Footers() {
     return (
         <footer className="bg-white absolute top-[5000px] left-[50px]">

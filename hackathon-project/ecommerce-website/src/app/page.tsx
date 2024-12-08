@@ -1,4 +1,3 @@
-import Image from "next/image";
 import TopHeader from '@/Components/TopHeader'
 import Navbar from "@/Components/Navbar";
 import Carousel from "@/Components/Carousel";
